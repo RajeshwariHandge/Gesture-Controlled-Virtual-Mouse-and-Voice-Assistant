@@ -259,5 +259,22 @@ Note: Use Python version: 3.8.5
   | Viral Doshi | [GitHub](https://github.com/Viral-Doshi) | Email | [LinkedIn](https://www.linkedin.com/in/viral-doshi-5a7737190/) | Instagram |
   | Nishiket Bidawat | [Github](https://github.com/xenon-19) | [Email](mailto:bidawatnishiket@gmail.com) | [LinkedIn](https://www.linkedin.com/in/nishiket-bidawat-74b419193/) | [Instagram](https://myanimelist.net/profile/Xenon1901) |
   | Ankit Sharma | [GitHub](https://github.com/ankit-4129) | [Email](mailto:ankitsharma.rbt@gmail.com) | LinkedIn | Instagram |
-  | Parth Sakariya | [Github](https://github.com/parth-12) | [Email](mailto:parthsakariya12@icloud.com) | [LinkedIn](https://www.linkedin.com/in/parth-sakariya-1886b2193/) | [Instagram](https://www.instagram.com/parth_sak12/) |
+  | Parth Sakariya | [Github](https://github.com/parth-12) | [Email](mailto:parthsakariya12@icloud.com) | [LinkedIn](https://www.linkedin.com/in/parth-sakariya-1886b2193/) | [Instagram](https://www.instagram.com/parth_sak12/) 
+  ## My Contribution
+
+This project was used as part of an academic project. My contributions included:
+
+* UI Design and User Interface Improvements
+* Testing and Validation of Gesture Recognition Features
+* Documentation and Project Reporting
+* Feature Demonstration and Presentation
+
+Contributor: Rajeshwari Rahul Handge
+
+Role:
+- UI Design
+- Testing & Validation
+- Documentation
+
+BE Computer Engineering Student|
   
